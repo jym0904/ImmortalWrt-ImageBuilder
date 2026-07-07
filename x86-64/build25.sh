@@ -57,7 +57,10 @@ PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-app-cifs-mount"
-PACKAGES="$PACKAGESluci-app-qbittorrent"
+PACKAGES="$PACKAGES luci-i18n-cifs-mount-zh-cn"
+PACKAGES="$PACKAGES luci-app-qbittorrent"
+PACKAGES="$PACKAGES luci-i18n-qbittorrent-zh-cn"
+
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
